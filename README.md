@@ -4,6 +4,7 @@
 
 ## Tabla de Contenido
 - [Entendiendo_Javascript](#Entendiendo-JavaScript)
+- [Syntax-Parser](#Syntax-Parser)
 - [Scope](#scope)
  
 <div align="right">
@@ -15,6 +16,14 @@
 Sincrono, de un solo proceso y un solo hilo.
 
 threaded => (es una serie de instrucciones).
+
+<div align="right">
+  <small><a href="#tabla-de-contenido">🡡 volver al inicio</a></small>
+</div>
+
+## Syntax Parser
+
+Es Proceso automatico que validad mi codigo.  
 
 <div align="right">
   <small><a href="#tabla-de-contenido">🡡 volver al inicio</a></small>
