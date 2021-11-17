@@ -10,7 +10,7 @@
   <small><a href="#tabla-de-contenido">🡡 volver al inicio</a></small>
 </div>
 
-## Scope o Ambito de una Variable:
+## Scope:
 
 El Scope o ámbito es lo que define el tiempo de vida de una variable, en qué partes de nuestro código pueden ser usadas.
 
