@@ -1,5 +1,5 @@
 <div align="center">
-  <h2>JAVASRIPT AVANZADO</h2>
+  <h2>JavaScript Avanzado</h2>
 </div>
 
 ## Tabla de Contenido
