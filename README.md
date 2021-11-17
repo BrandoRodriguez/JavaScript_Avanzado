@@ -1,15 +1,16 @@
 <div align="center">
-  <h1>JavaScript Avanzado</h1>
+  <h2>JAVASRIPT AVANZADO</h2>
+  <p>Como se ejecutan las cosas en javascritp</p>
 </div>
-## Tabla de Contenido
 
+## Tabla de Contenido
 - [Scope](#scope)
 
 <div align="right">
   <small><a href="#tabla-de-contenido">🡡 volver al inicio</a></small>
 </div>
 
-## Scope
+## Scope o Ambito de una Variable:
 
 El Scope o ámbito es lo que define el tiempo de vida de una variable, en qué partes de nuestro código pueden ser usadas.
 
