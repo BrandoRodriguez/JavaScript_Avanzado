@@ -3,7 +3,7 @@
 </div>
 
 ## Tabla de Contenido
-- [Entendiendo_Javascript](#Entendiendo-JavaScript)
+- [Entendiendo-avascript](#Entendiendo-JavaScript)
 - [Syntax-Parser](#Syntax-Parser)
 - [Scope](#scope)
  
