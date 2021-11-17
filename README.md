@@ -23,7 +23,7 @@ threaded => (es una serie de instrucciones).
 
 ## Syntax Parser
 
-Es Proceso automatico que validad mi codigo.  
+Es un Proceso automatico que validad mi codigo.  
 
 <div align="right">
   <small><a href="#tabla-de-contenido">🡡 volver al inicio</a></small>
