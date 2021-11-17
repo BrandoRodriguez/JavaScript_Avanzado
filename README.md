@@ -1,6 +1,5 @@
 <div align="center">
   <h2>JAVASRIPT AVANZADO</h2>
-  <p>Como se ejecutan las cosas en javascritp</p>
 </div>
 
 ## Tabla de Contenido
