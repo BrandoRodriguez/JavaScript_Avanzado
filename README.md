@@ -3,14 +3,14 @@
 </div>
 
 ## Tabla de Contenido
-- [Entendiendo_Javascript](#Entendiendo_JavaScript)
+- [Entendiendo_Javascript](#Entendiendo-JavaScript)
 - [Scope](#scope)
-
+ 
 <div align="right">
   <small><a href="#tabla-de-contenido">🡡 volver al inicio</a></small>
 </div>
 
-##Entendiendo JavaScript: (es Single threaded y Sincronico)
+## Entendiendo JavaScript: (es Single threaded y Sincronico)
 
 (one process one thread) 
 Sincrono, de un solo proceso y un solo hilo.
