@@ -5,6 +5,7 @@
 ## Tabla de Contenido
 - [Entendiendo-avascript](#Entendiendo-JavaScript)
 - [Syntax-Parser](#Syntax-Parser)
+- [Lexical-environment](#Lexical-environment)
 - [Scope](#scope)
  
 <div align="right">
@@ -21,9 +22,17 @@ threaded => (es una serie de instrucciones).
   <small><a href="#tabla-de-contenido">🡡 volver al inicio</a></small>
 </div>
 
-## Syntax Parser
+## Syntax Parser:
 
 Es un Proceso automatico que validad mi codigo.  
+
+<div align="right">
+  <small><a href="#tabla-de-contenido">🡡 volver al inicio</a></small>
+</div>
+
+## Lexical environment:
+
+Me dice que variables hay dentro de cada espacio o contexto de ejecucion.
 
 <div align="right">
   <small><a href="#tabla-de-contenido">🡡 volver al inicio</a></small>
