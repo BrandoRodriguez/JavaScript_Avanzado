@@ -10,9 +10,8 @@
   <small><a href="#tabla-de-contenido">🡡 volver al inicio</a></small>
 </div>
 
-## Entendiendo JavaScript: (es Single threaded y Sincronico)
+## Entendiendo JavaScript: (Single threaded y Sincronico)
 
-(one process one thread) 
 Sincrono, de un solo proceso y un solo hilo.
 
 threaded => (es una serie de instrucciones).
